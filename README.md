@@ -8,3 +8,5 @@
 ## To Execute the Code , you can use 
 
 * ts-node  "path to ts file"
+
+* Example : ts-node ./Tutors.ts

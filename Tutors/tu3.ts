@@ -14,3 +14,4 @@ function listNumbers(...nums : number[])
     
 }
 listNumbers(1,2,3,4)
+

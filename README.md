@@ -9,4 +9,4 @@
 
 * ts-node  "path to ts file"
 
-* Example : ts-node ./Tutors.ts
+* Example : ts-node ./Tutors/tu1.ts

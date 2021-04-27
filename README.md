@@ -4,3 +4,7 @@
 
 * npm install -D typescript 
 * npm install -g ts-node  [For Execution]
+
+## To Execute the Code , you can use 
+
+* ts-node  "path to ts file"

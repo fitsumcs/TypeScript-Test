@@ -16,6 +16,12 @@ console.log(message3);
 let list: number[] = [1, 2, 3];
 console.log(list);
 
+// Tupel 
+let list2: [number, string];
+list2 = [0, 'Hello'];
+console.log(list2);
+
+
 // Enum
 enum Color {
     Red,
